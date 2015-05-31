@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-03T11:30:48-07:00
+
+====== GeoTree ======
+Created Sunday 03 May 2015
+
+The [[GeoTree]] is an expandable list based on the geographic hierarchies of the peak/feature or route of interest. Each level of the tree can itself be a hyerlink to a page about that tree level.
+
+For Example:
+	* North America
+		* Rocky Mountains
+		* Sierra Nevada
+		* Cascades
+		* Colorado Plateau
+		* Basin & Range
+	* South America
+	* Europe
+	* Asia
+	* Australia
+	* Antarctica
+
+
+
+	* Alaska
+	* California
+	* Canada
+	* Colorado
