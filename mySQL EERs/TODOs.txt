@@ -1,0 +1,10 @@
+2. Create some 'dummy data'
+4. Create batch files to update entire DB
+7. Annotate EERs for:
+	c. Possible data entrypoints (PDE)
+	d. Determine views for PDEs as they are common forms of accessing data, including forms
+3. Generate all scripts for schema, data, etc.
+8. Create views
+9. Create triggers, functions, procedures
+
+
